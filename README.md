@@ -7,4 +7,5 @@
 ```console
 python day1.py
 go run day1.go
+cc -o day1 day1.c && ./day1
 ```
